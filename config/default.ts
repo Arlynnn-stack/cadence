@@ -22,9 +22,9 @@ export const loggerOptions = {
 
 export const systemOptions = {
     // Channel for sending system messages, such as bot errors and disconnect events. e.g. '123456789012345678'
-    systemMessageChannelId: '',
+    systemMessageChannelId: '1296787586387542147',
     // Bot administrator user ID for specific notifications through mentions in system channel. e.g. '123456789012345678'
-    systemUserId: ''
+    systemUserId: '1255789588664942665'
 };
 
 export const presenceStatusOptions = {
@@ -40,7 +40,7 @@ export const presenceStatusOptions = {
 export const embedOptions = {
     info: {
         fallbackThumbnailUrl:
-            'https://raw.githubusercontent.com/mariusbegby/cadence-discord-bot/main/assets/logo-rounded-128px.png',
+            'https://cdn.discordapp.com/attachments/1296786915517009960/1296787291913851000/1df84adfd399538baf008012b213c125223d2608_s2_n2_y1-removebg.png?ex=67138ec7&is=67123d47&hm=e7637e598f77b77690ab812b4f8bb8409be7bc0d362a98ec5262b42e5dc69592&',
         fallbackIconUrl:
             'https://raw.githubusercontent.com/mariusbegby/cadence-discord-bot/main/assets/discord-profile-icon.png'
     },
