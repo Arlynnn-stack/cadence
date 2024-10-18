@@ -1,20 +1,20 @@
 {
-    "name": "cadence-discord-bot",
+    "name": "Cherry-Tunes",
     "version": "6.0.0",
-    "description": "A free Discord music and audio bot.",
+    "description": "",
     "repository": {
         "type": "git",
-        "url": "https://github.com/mariusbegby/cadence-discord-bot"
+        "url": ""
     },
     "bugs": {
-        "url": "https://github.com/mariusbegby/cadence-discord-bot/issues"
+        "url": ""
     },
-    "homepage": "https://github.com/mariusbegby/cadence-discord-bot#readme",
+    "homepage": "",
     "author": {
-        "name": "Marius Begby",
-        "url": "https://github.com/mariusbegby"
+        "name": "",
+        "url": ""
     },
-    "publisher": "mariusbegby",
+    "publisher": "syasya",
     "license": "MIT",
     "main": "dist/index.js",
     "scripts": {
